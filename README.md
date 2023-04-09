@@ -15,6 +15,7 @@ This is a code repository for the corresponding video.
 
 With featured and recent posts, users can access their information and posts of theirs and other people. I used Postman to test my backend social media app's endpoints by creating requests with HTTP methods, URLs, headers and body parameters. I organized these requests into a collection and tested them for correct response using Postman's features like environment variables, tests, and automation.
 
+I used MongoDB to store data in my backend social media app. I created database collections to store data objects, and used MongoDB's query language to manipulate and retrieve data. MongoDB's flexibility and scalability helped me to easily manage my app's data, making it more efficient and reliable.
 
 ## Backend Routes
 * Access Memories on this route 👉🏼 https://flash-api-g8r6.onrender.com/api/memories/
