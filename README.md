@@ -11,6 +11,9 @@
 * 📫 How to reach me chidike.henry@gmail.com
 
 ## Introduction
+This is a code repository for the corresponding video. 
+
+With featured and recent posts, users can access their information and posts of theirs and other people. I used Postman to test my backend social media app's endpoints by creating requests with HTTP methods, URLs, headers and body parameters. I organized these requests into a collection and tested them for correct response using Postman's features like environment variables, tests, and automation.
 
 
 ## Backend Routes
