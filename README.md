@@ -5,7 +5,7 @@
 ## About
 * 👋 Hi, I’m Chidike Henry 
 * 😎 I’m a web developer 
-* 💻 This is flash backend made with MongoDB, Typescript, JWT, Express and Docker,.
+* 💻 This is flash backend made with MongoDB, Typescript, JWT, Express and Docker.
 * 🌍 Website:  https://flash-api-g8r6.onrender.com/
 * 💞️ I’m looking to collaborate on TS projects 
 * 📫 How to reach me chidike.henry@gmail.com
