@@ -15,6 +15,7 @@
 * Access Users on this route 👉🏼 https://flash-api-g8r6.onrender.com/api/users/ 
 
 ## Backend Routes
+* Access Postman documentaion on this URL 👉🏼 https://flash-api-g8r6.onrender.com/api/users/ 
 
 ## Technologies Used
 * Docker
