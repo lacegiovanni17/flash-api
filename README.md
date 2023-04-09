@@ -20,8 +20,8 @@ With featured and recent posts, users can access their information and posts of 
 * Access Memories on this route 👉🏼 https://flash-api-g8r6.onrender.com/api/memories/
 * Access Users on this route 👉🏼 https://flash-api-g8r6.onrender.com/api/users/ 
 
-## Backend Routes
-* Access Postman documentaion on this URL 👉🏼 https://flash-api-g8r6.onrender.com/api/users/ 
+## Postman Documentation
+* Access documentaion made with Postman on this URL 👉🏼 https://flash-api-g8r6.onrender.com/api/users/ 
 
 ## Technologies Used
 * Docker
