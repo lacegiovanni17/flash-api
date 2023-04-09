@@ -18,7 +18,7 @@
 * Git
 * Express
 * Bcrypt
-* GitHub
+* Postman
 * Typescript
 
 ## Author
