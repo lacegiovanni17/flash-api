@@ -10,6 +10,8 @@
 * 💞️ I’m looking to collaborate on TS projects 
 * 📫 How to reach me chidike.henry@gmail.com
 
+Access Memories on this route 👉🏼 https://flash-api-g8r6.onrender.com/api/memories/
+Access Users on this route 👉🏼 https://flash-api-g8r6.onrender.com/api/users/ 
 
 ## Technologies Used
 * Docker
